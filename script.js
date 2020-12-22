@@ -11,26 +11,26 @@ const difficultySelect = document.getElementById('difficulty');
 
 // List of words for game
 const words = [
-    'sigh',
-    'tense',
-    'airplane',
-    'ball',
-    'pies',
-    'juice',
-    'warlike',
-    'bad',
-    'north',
-    'dependent',
-    'steer',
-    'silver',
-    'highfalutin',
-    'superficial',
-    'quince',
-    'eight',
-    'feeble',
-    'admit',
-    'drag',
-    'loving'
+    'Sigh',
+    'Tense',
+    'Airplane',
+    'Ball',
+    'Pies',
+    'Juice',
+    'Warlike',
+    'Bad',
+    'North',
+    'Dependent',
+    'Steer',
+    'Silver',
+    'Highfalutin',
+    'Superficial',
+    'Quince',
+    'Eight',
+    'Feeble',
+    'Admit',
+    'Drag',
+    'Loving'
   ];
   
 //Init word
